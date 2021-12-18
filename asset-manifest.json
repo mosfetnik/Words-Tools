@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/Words-Tools/static/css/main.e230a2ec.chunk.css",
+    "main.js": "/Words-Tools/static/js/main.db4860c6.chunk.js",
+    "main.js.map": "/Words-Tools/static/js/main.db4860c6.chunk.js.map",
+    "runtime-main.js": "/Words-Tools/static/js/runtime-main.4ad6e7ac.js",
+    "runtime-main.js.map": "/Words-Tools/static/js/runtime-main.4ad6e7ac.js.map",
+    "static/js/2.6ddb03fd.chunk.js": "/Words-Tools/static/js/2.6ddb03fd.chunk.js",
+    "static/js/2.6ddb03fd.chunk.js.map": "/Words-Tools/static/js/2.6ddb03fd.chunk.js.map",
+    "static/js/3.74050d98.chunk.js": "/Words-Tools/static/js/3.74050d98.chunk.js",
+    "static/js/3.74050d98.chunk.js.map": "/Words-Tools/static/js/3.74050d98.chunk.js.map",
+    "index.html": "/Words-Tools/index.html",
+    "static/css/main.e230a2ec.chunk.css.map": "/Words-Tools/static/css/main.e230a2ec.chunk.css.map",
+    "static/js/2.6ddb03fd.chunk.js.LICENSE.txt": "/Words-Tools/static/js/2.6ddb03fd.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.4ad6e7ac.js",
+    "static/js/2.6ddb03fd.chunk.js",
+    "static/css/main.e230a2ec.chunk.css",
+    "static/js/main.db4860c6.chunk.js"
+  ]
+}
